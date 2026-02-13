@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Detail Artikel</title>
+
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <script defer src="assets/js/script.js"></script>
+</head>
+<body>
+
+  <div class="container pill-nav-wrap">
+    <div class="pill-nav">
+      <!-- LOGO ONLY (Navbar) -->
+      <a class="brand brand--logo-only" href="article-list.html" aria-label="Pajajaran Physical Society">
+        <img
+          class="brand-logo brand-logo--wide"
+          src="assets/img/Logo-01.png"
+          alt="Pajajaran Physical Society"
+          width="128"
+          height="30"
+        />
+      </a>
+
+      <nav class="nav-links" aria-label="Navigasi">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Activity</a>
+        <a class="is-active" href="article-list.html">Article</a>
+      </nav>
+
+      <!-- Search icon -> expand -->
+      <form class="search search--collapse" role="search" onsubmit="return false;">
+        <label class="search-icon" for="q" aria-label="Cari artikel">
+          <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor"
+              d="M10 2a8 8 0 105.293 14.293l4.207 4.207 1.414-1.414-4.207-4.207A8 8 0 0010 2zm0 2a6 6 0 110 12 6 6 0 010-12z"/>
+          </svg>
+        </label>
+
+        <input id="q" class="search-input" type="search" placeholder="Cari artikel..." autocomplete="off" />
+      </form>
+    </div>
+  </div>
+
+  <!-- DIISI OTOMATIS OLEH JS -->
+  <main class="container" id="detailMount"></main>
+
+  <!-- FOOTER (match gambar kedua) -->
+  <footer class="pps-footer" role="contentinfo">
+    <div class="container pps-footer__inner">
+      <div class="pps-footer__grid">
+
+        <!-- LEFT: brand -->
+        <div class="pps-footer__brand">
+          <div class="pps-footer__brandline">
+            <img
+              class="pps-footer__brandlogo"
+              src="assets/img/footer-logo.png"
+              alt="Pajajaran Physical Society"
+              width="182"
+              height="56"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+
+          <p class="pps-footer__desc">
+            Adalah sebuah komunitas independen yang berfokus dalam kegiatan penyebaran ilmu fisika beserta manfaatnya bagi masyarakat sekitar.
+          </p>
+
+          <p class="pps-footer__desc pps-footer__desc--en">
+            <em>Is a not-for-profit, independent, and unofficial community that focuses on spreading knowledge of physics and its benefits to the public.</em>
+          </p>
+        </div>
+
+        <!-- MIDDLE: menu -->
+        <nav class="pps-footer__menu" aria-label="Menu footer">
+          <a class="pps-footer__menuitem" href="article-list.html">Artikel</a>
+          <a class="pps-footer__menuitem" href="#">Tentang kami</a>
+
+          <a class="pps-footer__menuitem" href="#">Konten</a>
+          <a class="pps-footer__menuitem" href="#">Berita</a>
+
+          <a class="pps-footer__menuitem" href="#">Langganan</a>
+          <a class="pps-footer__menuitem" href="#">Aktivitas</a>
+        </nav>
+
+        <!-- RIGHT: CTA + socials -->
+        <div class="pps-footer__follow">
+          <a class="pps-footer__cta" href="#" aria-label="Ikuti Pajajaran Physical Society">IKUTI KAMI</a>
+
+          <div class="pps-footer__socials" aria-label="Sosial media">
+            <a class="pps-footer__social" href="#" aria-label="YouTube">
+              <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true">
+                <path fill="currentColor" d="M21.6 7.2a3 3 0 0 0-2.1-2.1C17.8 4.6 12 4.6 12 4.6s-5.8 0-7.5.5A3 3 0 0 0 2.4 7.2 31 31 0 0 0 2 12s0 3.4.4 4.8a3 3 0 0 0 2.1 2.1c1.7.5 7.5.5 7.5.5s5.8 0 7.5-.5a3 3 0 0 0 2.1-2.1c.4-1.4.4-4.8.4-4.8s0-3.4-.4-4.8ZM10 15.5v-7l6 3.5-6 3.5Z"/>
+              </svg>
+            </a>
+
+            <a class="pps-footer__social" href="#" aria-label="Instagram">
+              <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true">
+                <path fill="currentColor" d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5Zm10 2H7a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3Zm-5 4.5A3.5 3.5 0 1 1 8.5 12 3.5 3.5 0 0 1 12 8.5Zm0 2A1.5 1.5 0 1 0 13.5 12 1.5 1.5 0 0 0 12 10.5ZM17.8 6.8a.8.8 0 1 1-.8-.8.8.8 0 0 1 .8.8Z"/>
+              </svg>
+            </a>
+
+            <a class="pps-footer__social" href="#" aria-label="TikTok">
+              <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true">
+                <path fill="currentColor" d="M14 3v10.2a3.6 3.6 0 1 1-3-3.5V7.3a6.5 6.5 0 1 0 5 6.3V8.4c1.1 1 2.5 1.6 4 1.7V7.6c-2-.2-3.6-1.6-4-4.6H14Z"/>
+              </svg>
+            </a>
+
+            <a class="pps-footer__social" href="#" aria-label="LinkedIn">
+              <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true">
+                <path fill="currentColor" d="M4.98 3.5A2.5 2.5 0 1 1 5 8.5a2.5 2.5 0 0 1-.02-5ZM3 9h4v12H3V9Zm7 0h3.8v1.7h.1A4.2 4.2 0 0 1 17.7 9c4 0 4.8 2.6 4.8 6v6H18.5v-5.3c0-1.3 0-3-1.8-3s-2.1 1.4-2.1 2.9V21H10V9Z"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="footer-bottom pps-footer__bottom">© 2026 Pajajaran Physical Society</div>
+    </div>
+  </footer>
+
+</body>
+</html>

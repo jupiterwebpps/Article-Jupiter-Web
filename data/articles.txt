@@ -1,0 +1,225 @@
+[
+  {
+    "id": "plts-sumber-energi",
+    "title": "PLTS SUMBER ENERGI",
+    "topic": "Konten",
+    "author": "Sandy",
+    "date": "2026-02-05",
+    "excerpt": "Ringkasan singkat tentang PLTS dan cara kerjanya. CW tinggal ganti isi ini.",
+    "cover": "https://picsum.photos/seed/plts-sumber-energi/1200/675",
+    "content": "<p>Isi artikel di sini. CW tinggal nulis paragrafnya.</p><h2>Pendahuluan</h2><p>PLTS mengubah energi cahaya menjadi energi listrik melalui modul fotovoltaik.</p><blockquote>Highlight: efisiensi panel dipengaruhi suhu, intensitas cahaya, dan kualitas modul.</blockquote><h2>Pembahasan</h2><p>Jelaskan komponen utama: panel, inverter, baterai (opsional), dan proteksi.</p><h2>Penutup</h2><p>Kesimpulan singkat + ajakan baca artikel terkait.</p>"
+  },
+  {
+    "id": "kunjungan-sma-16-bandung",
+    "title": "KUNJUNGAN SMA 16 BANDUNG",
+    "topic": "Berita",
+    "author": "Sandy",
+    "date": "2026-02-03",
+    "excerpt": "Laporan singkat kegiatan kunjungan dan sesi sharing bersama siswa.",
+    "cover": "https://picsum.photos/seed/kunjungan-sma-16-bandung/1200/675",
+    "content": "<p>Konten berita kegiatan kunjungan.</p><h2>Rangkaian Acara</h2><p>Pembukaan, tur lab, sesi tanya jawab, dan dokumentasi.</p><h2>Catatan</h2><p>Tulis insight dan hal menarik dari kegiatan.</p>"
+  },
+  {
+    "id": "interesting-fact-time-01",
+    "title": "INTERESTING FACT TIME: CAHAYA",
+    "topic": "Edukasi",
+    "author": "Sandy",
+    "date": "2026-02-01",
+    "excerpt": "Fakta singkat tentang sifat cahaya dan aplikasinya.",
+    "cover": "https://picsum.photos/seed/interesting-fact-time-01/1200/675",
+    "content": "<p>Konten edukasi singkat.</p><h2>Fakta</h2><p>Cahaya punya sifat gelombang dan partikel (dualisme gelombang-partikel).</p><h2>Aplikasi</h2><p>Contoh: laser, serat optik, sensor kamera.</p>"
+  },
+  {
+    "id": "dasar-elektronika-resistor",
+    "title": "DASAR ELEKTRONIKA: RESISTOR",
+    "topic": "Konten",
+    "author": "Sandy",
+    "date": "2026-01-30",
+    "excerpt": "Kenalan dengan resistor, fungsi, dan cara membaca nilai gelang warna.",
+    "cover": "https://picsum.photos/seed/dasar-elektronika-resistor/1200/675",
+    "content": "<p>Resistor adalah komponen pasif untuk membatasi arus.</p><h2>Fungsi</h2><p>Pembagi tegangan, pembatas arus LED, pull-up/pull-down.</p><h2>Tips</h2><p>Masukkan tabel gelang warna kalau diperlukan.</p>"
+  },
+  {
+    "id": "kegiatan-workshop-fisika",
+    "title": "WORKSHOP FISIKA DASAR",
+    "topic": "Berita",
+    "author": "Sandy",
+    "date": "2026-01-28",
+    "excerpt": "Rangkuman kegiatan workshop dan materi yang dibahas.",
+    "cover": "https://picsum.photos/seed/kegiatan-workshop-fisika/1200/675",
+    "content": "<p>Rangkuman workshop.</p><h2>Materi</h2><p>Pengukuran, vektor, dan konsep gaya.</p><h2>Dokumentasi</h2><p>Tambahkan foto kegiatan dari media manager.</p>"
+  },
+  {
+    "id": "edukasi-hukum-newton",
+    "title": "HUKUM NEWTON DALAM KEHIDUPAN",
+    "topic": "Edukasi",
+    "author": "Sandy",
+    "date": "2026-01-26",
+    "excerpt": "Contoh penerapan hukum Newton pada aktivitas sehari-hari.",
+    "cover": "https://picsum.photos/seed/edukasi-hukum-newton/1200/675",
+    "content": "<p>Hukum Newton menjelaskan hubungan gaya dan gerak.</p><h2>Contoh</h2><p>Rem kendaraan, dorong benda, dan gerak lift.</p><h2>Latihan</h2><p>Buat 3 soal singkat untuk pembaca.</p>"
+  },
+  {
+    "id": "konten-osiloskop-singkat",
+    "title": "OSILOSKOP: CARA BACA SINYAL",
+    "topic": "Konten",
+    "author": "Sandy",
+    "date": "2026-01-24",
+    "excerpt": "Panduan cepat membaca sinyal tegangan vs waktu di osiloskop.",
+    "cover": "https://picsum.photos/seed/konten-osiloskop-singkat/1200/675",
+    "content": "<p>Osiloskop menampilkan gelombang sinyal secara real-time.</p><h2>Parameter</h2><p>V/div, Time/div, trigger, dan coupling.</p><h2>Praktik</h2><p>Contoh pengukuran PWM sederhana.</p>"
+  },
+  {
+    "id": "berita-kunjungan-kampus",
+    "title": "KUNJUNGAN KAMPUS: OPEN LAB DAY",
+    "topic": "Berita",
+    "author": "Sandy",
+    "date": "2026-01-22",
+    "excerpt": "Open Lab Day: pengenalan alat, demo eksperimen, dan networking.",
+    "cover": "https://picsum.photos/seed/berita-kunjungan-kampus/1200/675",
+    "content": "<p>Ringkasan Open Lab Day.</p><h2>Agenda</h2><p>Tour, demo, dan sesi diskusi.</p><h2>Highlight</h2><p>Tulis 3 highlight utama kegiatan.</p>"
+  },
+  {
+    "id": "edukasi-spektrum-elektromagnetik",
+    "title": "SPEKTRUM ELEKTROMAGNETIK ITU APA?",
+    "topic": "Edukasi",
+    "author": "Sandy",
+    "date": "2026-01-20",
+    "excerpt": "Dari radio sampai sinar gamma: urutan dan kegunaannya.",
+    "cover": "https://picsum.photos/seed/edukasi-spektrum-elektromagnetik/1200/675",
+    "content": "<p>Spektrum elektromagnetik adalah rentang frekuensi gelombang EM.</p><h2>Urutan</h2><p>Radio, mikro, infra merah, tampak, UV, X-ray, gamma.</p><h2>Aplikasi</h2><p>Contoh pemanfaatan di komunikasi & medis.</p>"
+  },
+  {
+    "id": "konten-dasar-pemrograman-arduino",
+    "title": "ARDUINO: DASAR PEMROGRAMAN",
+    "topic": "Konten",
+    "author": "Sandy",
+    "date": "2026-01-18",
+    "excerpt": "Struktur sketch, setup-loop, dan contoh blink LED.",
+    "cover": "https://picsum.photos/seed/konten-dasar-pemrograman-arduino/1200/675",
+    "content": "<p>Arduino memakai struktur <b>setup()</b> dan <b>loop()</b>.</p><h2>Contoh</h2><p>Tulis contoh blink LED dan jelaskan delay.</p><h2>Tips</h2><p>Gunakan komentar agar CW mudah lanjut.</p>"
+  },
+  {
+    "id": "berita-kompetisi-sains",
+    "title": "KOMPETISI SAINS INTERNAL",
+    "topic": "Berita",
+    "author": "Sandy",
+    "date": "2026-01-16",
+    "excerpt": "Update kompetisi sains: kategori lomba dan timeline.",
+    "cover": "https://picsum.photos/seed/berita-kompetisi-sains/1200/675",
+    "content": "<p>Informasi kompetisi sains.</p><h2>Kategori</h2><p>Fisika dasar, elektronik, dan presentasi poster.</p><h2>Timeline</h2><p>Tambahkan tanggal pendaftaran dan final.</p>"
+  },
+  {
+    "id": "edukasi-energi-potensial-kinetik",
+    "title": "ENERGI POTENSIAL VS KINETIK",
+    "topic": "Edukasi",
+    "author": "Sandy",
+    "date": "2026-01-14",
+    "excerpt": "Bedanya energi potensial dan kinetik beserta contoh sederhana.",
+    "cover": "https://picsum.photos/seed/edukasi-energi-potensial-kinetik/1200/675",
+    "content": "<p>Energi potensial terkait posisi, energi kinetik terkait gerak.</p><h2>Contoh</h2><p>Bola di ketinggian vs bola menggelinding.</p><h2>Latihan</h2><p>Tambahkan 2 pertanyaan untuk pembaca.</p>"
+  },
+  {
+    "id": "konten-sensor-ldr",
+    "title": "SENSOR LDR: DETEKSI CAHAYA",
+    "topic": "Konten",
+    "author": "Sandy",
+    "date": "2026-01-12",
+    "excerpt": "Cara kerja LDR dan contoh penerapan lampu otomatis.",
+    "cover": "https://picsum.photos/seed/konten-sensor-ldr/1200/675",
+    "content": "<p>LDR berubah resistansi tergantung intensitas cahaya.</p><h2>Rangkaian</h2><p>Pakai pembagi tegangan + input ADC.</p><h2>Implementasi</h2><p>Kontrol relay atau LED berdasarkan threshold.</p>"
+  },
+  {
+    "id": "berita-kolaborasi-komunitas",
+    "title": "KOLABORASI DENGAN KOMUNITAS LOKAL",
+    "topic": "Berita",
+    "author": "Sandy",
+    "date": "2026-01-10",
+    "excerpt": "Kolaborasi edukasi sains bersama komunitas lokal setempat.",
+    "cover": "https://picsum.photos/seed/berita-kolaborasi-komunitas/1200/675",
+    "content": "<p>Ringkasan kolaborasi.</p><h2>Tujuan</h2><p>Meningkatkan literasi sains dan praktik eksperimen sederhana.</p><h2>Next Step</h2><p>Rencana kegiatan lanjutan.</p>"
+  },
+  {
+    "id": "edukasi-tekanan-fluida",
+    "title": "TEKANAN FLUIDA: KONSEP INTI",
+    "topic": "Edukasi",
+    "author": "Sandy",
+    "date": "2026-01-08",
+    "excerpt": "Konsep tekanan fluida dan penerapannya dalam kehidupan.",
+    "cover": "https://picsum.photos/seed/edukasi-tekanan-fluida/1200/675",
+    "content": "<p>Tekanan fluida meningkat seiring kedalaman.</p><h2>Rumus</h2><p>P = rho * g * h.</p><h2>Contoh</h2><p>Bendungan, penyelaman, dan pipa air.</p>"
+  },
+  {
+    "id": "konten-multimeter-panduan",
+    "title": "MULTIMETER: PANDUAN PEMULA",
+    "topic": "Konten",
+    "author": "Sandy",
+    "date": "2026-01-06",
+    "excerpt": "Cara ukur tegangan, arus, resistansi dengan multimeter.",
+    "cover": "https://picsum.photos/seed/konten-multimeter-panduan/1200/675",
+    "content": "<p>Multimeter alat wajib buat elektronik.</p><h2>Mode</h2><p>DCV, ACV, ohm, continuity, DCA.</p><h2>Safety</h2><p>Pastikan probe benar dan range sesuai.</p>"
+  },
+  {
+    "id": "berita-sharing-session",
+    "title": "SHARING SESSION: KARIER DI STEM",
+    "topic": "Berita",
+    "author": "Sandy",
+    "date": "2026-01-04",
+    "excerpt": "Sharing session karier di STEM bersama pembicara tamu.",
+    "cover": "https://picsum.photos/seed/berita-sharing-session/1200/675",
+    "content": "<p>Ringkasan sharing session.</p><h2>Pembahasan</h2><p>Skill yang dibutuhkan dan roadmap belajar.</p><h2>QnA</h2><p>Rangkum pertanyaan paling sering muncul.</p>"
+  },
+  {
+    "id": "edukasi-gravitasi-singkat",
+    "title": "GRAVITASI: KENAPA KITA TIDAK MELAYANG?",
+    "topic": "Edukasi",
+    "author": "Sandy",
+    "date": "2026-01-02",
+    "excerpt": "Penjelasan singkat gaya gravitasi dan pengaruhnya.",
+    "cover": "https://picsum.photos/seed/edukasi-gravitasi-singkat/1200/675",
+    "content": "<p>Gravitasi menarik benda menuju pusat massa.</p><h2>Intuisi</h2><p>Bandingkan massa bumi dan percepatan gravitasi.</p><h2>Fun Fact</h2><p>Perbedaan kecil g di lokasi yang berbeda.</p>"
+  },
+  {
+    "id": "konten-proyek-mini-robot",
+    "title": "PROYEK MINI: ROBOT LINE FOLLOWER",
+    "topic": "Konten",
+    "author": "Sandy",
+    "date": "2025-12-29",
+    "excerpt": "Outline proyek mini robot line follower untuk pemula.",
+    "cover": "https://picsum.photos/seed/konten-proyek-mini-robot/1200/675",
+    "content": "<p>Robot line follower mengikuti garis dengan sensor IR.</p><h2>Komponen</h2><p>MCU, motor driver, sensor IR, baterai.</p><h2>Langkah</h2><p>Rancang rangka, wiring, tuning PID sederhana (opsional).</p>"
+  },
+  {
+    "id": "berita-penutupan-tahun",
+    "title": "RANGKUMAN KEGIATAN AKHIR TAHUN",
+    "topic": "Berita",
+    "author": "Sandy",
+    "date": "2025-12-24",
+    "excerpt": "Rangkuman kegiatan komunitas dan rencana awal tahun depan.",
+    "cover": "https://picsum.photos/seed/berita-penutupan-tahun/1200/675",
+    "content": "<p>Ringkasan kegiatan akhir tahun.</p><h2>Highlight</h2><p>Daftar kegiatan paling berdampak.</p><h2>Rencana</h2><p>Susun agenda awal tahun berikutnya.</p>"
+  },
+
+  {
+    "id": "ulasan-novel-oregairu",
+    "title": "ULASAN NOVEL OREGAIRU (YAHARI ORE NO SEISHUN LOVE COMEDY)",
+    "topic": "Konten",
+    "author": "Sandy Fauzi Amrulloh",
+    "date": "2024-03-20",
+    "excerpt": "Ulasan novel ringan OreGairu karya Wataru Watari: tema relasi sosial, dialog tajam, dan dinamika karakter.",
+    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixsSW7XiNf1g6sbG9TVcQoTUOTHdNC3BE_fG2Ie4D5cgLpnVb1MwsfYnaTqqI8E8c8A2WAQ0JsYLeIOEKVwz2PiKNWtvFJWA0UUEGFfoGGZedu-JEsRtc2IEGGqCejktfNU-WmfDnTB5QPl4p-DlBq9R2ImhPybUyo3pjRgr1h-fPP34UB40W5z6aw4Wg/w1200/ihy52hrur5p51.webp",
+    "content": "<p><b>Versi asli:</b> <a href=\"https://sandzhnine.blogspot.com/2024/03/ulasan-novel-yahari-ore-no-seishun-love.html\" target=\"_blank\" rel=\"noopener\">Buka di Blogger</a></p><div style=\"border-radius:14px; overflow:hidden; outline:1px solid rgba(230,230,230,0.12);\"><iframe src=\"https://sandzhnine.blogspot.com/2024/03/ulasan-novel-yahari-ore-no-seishun-love.html\" style=\"width:100%; height:80vh; border:0;\" loading=\"lazy\" referrerpolicy=\"no-referrer\"></iframe></div><p style=\"opacity:.85; margin-top:10px;\">Kalau iframe tidak muncul (diblock browser), klik link “Buka di Blogger” di atas.</p>"
+  },
+
+  {
+  "id": "ulasan-novel-oregairu-full",
+  "title": "ULASAN NOVEL OREGAIRU (YAHARI ORE NO SEISHUN LOVE COMEDY) - FULL",
+  "topic": "Konten",
+  "author": "Sandy Fauzi Amrulloh",
+  "date": "2024-03-20",
+  "excerpt": "Versi full (non-iframe) ulasan novel ringan OreGairu karya Wataru Watari.",
+  "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixsSW7XiNf1g6sbG9TVcQoTUOTHdNC3BE_fG2Ie4D5cgLpnVb1MwsfYnaTqqI8E8c8A2WAQ0JsYLeIOEKVwz2PiKNWtvFJWA0UUEGFfoGGZedu-JEsRtc2IEGGqCejktfNU-WmfDnTB5QPl4p-DlBq9R2ImhPybUyo3pjRgr1h-fPP34UB40W5z6aw4Wg/w1200/ihy52hrur5p51.webp",
+  "content": "<p><i>Art by @Ponkan8</i></p>\n<p><b>Yahari Ore no Seishun Rabukome wa Machigatteiru.</b> (Jepang: やはり俺の青春ラブコメはまちがっている。), disingkat menjadi OreGairu (俺ガイル) dan Hamachi (はまち), juga dikenal sebagai My Youth Romantic Comedy Is Wrong, As I Expected dan My Teen Romantic Comedy SNAFU, adalah sebuah seri novel ringan asal Jepang yang ditulis oleh Wataru Watari dan diilustrasikan oleh Ponkan8. Seri ini mengisahkan tentang Hachiman Hikigaya, seorang remaja yang bersifat pesimis, berpikiran tertutup, dan realistis, yang dipaksa oleh gurunya untuk bergabung dengan klub relawan di sekolahnya dan bekerja sama dengan dua orang gadis yang memiliki masalahnya masing-masing. Mereka menawarkan bantuan dan saran kepada orang lain sembari menangani konflik batin yang dialami mereka.</p>\n<p>Seri ini telah diadaptasi menjadi tiga manga dan dua volume antologi. Oregairu juga telah diadaptasi menjadi seri anime, yang ditayangkan sejak tanggal 4 April hingga 27 Juni 2013 dan diikuti oleh musim kedua yang ditayangkan sejak tanggal 2 April hingga 25 Juni 2015. Musim ketiga dan terakhir ditayangkan sejak tanggal 9 Juli 2020.</p>\n<p>Seri novel ini memiliki 14 volume dan 6 volume seri Oregairu Shin lanjutan dari 14 volume sebelumnya, dan beberapa series antologi/cerita sampingan dari berbagai karakternya. Yahari Ore no Seishun Rabukome wa Machigatteiru atau lebih mudah disebut dengan nama Oregairu adalah novel bergenre School, Slice of Life, Romance, Drama, Komedi.</p>\n<p>Awal kisah menceritakan kehidupan sekolah seorang pemuda bernama Hikigaya Hachiman dalam konflik hubungan sosial dan pertemanan di sekolahnya. Hachiman menganggap masa muda adalah masa penuh kebohongan dimana semua orang pada masa tersebut hanya membuang waktu untuk mengejar status sosial, namun ia sendirilah yang justru memiliki masalah dalam berhubungan sosial, dan cerita pun dimulai saat Hachiman dipaksa bergabung ke dalam klub relawan oleh Hiratsuka Sensei dan bertemu dengan Yukinoshita Yukino.</p>\n<p><i>Art by @Ponkan8</i></p>\n<p>Oregairu mengambil cerita dalam sudut pandang orang pertama dari setiap karakternya. Cerita dimulai dengan bertemunya Hachiman dan Yukino serta pasien pertama mereka di klub relawan yaitu Yui Yuigahama. Ketiga karakter ini akan berkembang seiring berjalannnya cerita, dan sebenarnya mereka ini memiliki hubungan yang semu di awal mereka masuk di SMA Sobu, hal ini akan diperjelas seiring berjalannya cerita.</p>\n<p>Di dalam cerita Oregairu akan dibahas tentang hubungan sosial antar manusia seperti untuk apa mereka memiliki kelompok dalam suatu organisasi/kelas, lalu bagaimana mereka berinteraksi antar satu sama lain dengan tebalnya topeng sosial yang mereka gunakan. Novel ini memperjelas apa yang disebut dengan hubungan yang tulus antar manusia, dimana seseorang tidak akan memerlukan imbalan satu sama lain dalam berinteraksi.</p>\n<p>Juga di Novel ini kita akan diberikan dua sudut pandang yang berbeda dari pandangan Hachiman dan Yukino dalam menghadapi suatu masalah di dalam klub relawan. Hachiman memiliki sikap yang pesimis dalam menghadapi masalah, sedangkan Yukino memiliki pandangan yang optimis dalam menghadapi masalah. Dua kombinasi ini membuat klub relawan memiliki cara yang unik dalam membantu siswa di SMA Sobu yang memiliki masalah.</p>\n<p>Selain dari cerita yang membawa topik tentang masalah dalam hubungan sosial, novel ini juga menceritakan kisah cinta segi tiga dalam hubungan ketiga protagonis utama kita yaitu Hachiman, Yukino, dan Yui. Di dalam kisah cinta ini kita dapat melihat bahwa dalam memilih pasangan yang dapat melengkapi satu sama lain haruslah dimulai dengan hubungan yang tulus. Kisah cinta di novel ini memiliki konflik dan dialog yang cukup sulit dimengerti karena banyaknya penggunaan kalimat kiasan.</p>\n<p><i>Art by @Ponkan8</i></p>\n<p>Daya tarik lain dari novel Oregairu adalah pendekatan naratifnya yang tajam dan penuh dengan dialog cerdas. Watari berhasil menciptakan karakter-karakter yang kompleks dan realistis, memberikan nuansa keaslian pada kisah ini. Seringkali, pembaca dibuat terpikir dengan pertanyaan filosofis dan pandangan hidup yang diajukan oleh tokoh utama. Melalui narasinya yang khas, Oregairu menghadirkan pesan-pesan kehidupan yang penuh makna. Itu menyentuh tema-tema seperti kejujuran diri, penerimaan diri, dan pentingnya relasi antarmanusia. Cerita ini mengajak pembaca untuk merenung tentang makna sejati dari kebahagiaan dan hubungan manusiawi.</p>\n<p>Serial ini tidak hanya memperlihatkan hubungan antar karakter utama, tetapi juga mengeksplorasi berbagai konflik internal yang mereka hadapi. Dari pertarungan egosentris Hachiman dengan pandangan hidupnya yang sinis, hingga pertanyaan-pertanyaan rumit tentang persahabatan dan cinta, Oregairu menghadirkan narasi yang penuh dengan emosi dan pemikiran mendalam.</p>\n<p>Wataru Watari mampu menyajikan kisah serius dengan humor yang menyegarkan. Dialog cerdas dan komentar satir dari Hachiman menambah daya tarik cerita. Penggunaan bahasa yang tajam dan sarkastik menciptakan suasana unik yang membuat Oregairu menjadi pengalaman membaca yang tak terlupakan.</p>\n<p>Di sisi lain, ada juga yang mungkin tidak begitu menyukai Oregairu karena pendekatannya yang cenderung gelap dan pesimistis terhadap hubungan sosial. Beberapa orang mungkin juga merasa frustrasi dengan lambatnya perkembangan hubungan antara karakter-karakter utama. Namun, secara keseluruhan, Oregairu sering dihargai karena mengeksplorasi tema-tema seperti persahabatan, cinta, dan pertumbuhan pribadi dengan cara yang lebih kompleks dan realistis daripada banyak novel ringan lainnya.</p>\n<p><i>Art by @Ponkan8</i></p>\n<p>Dalam keseluruhan kisah yang disajikan oleh Oregairu atau Yahari Ore no Seishun Rabukome wa Machigatteiru, kita disuguhi dengan perjalanan yang mendalam dan memikat dalam dunia remaja yang penuh konflik dan pertumbuhan. Novel ini berhasil menggambarkan realitas sosial yang kompleks dan beragam melalui karakter-karakter yang kuat dan kompleks.</p>\n<p>Dari karakter utama seperti Hachiman yang pesimis dan realistis, hingga Yukino yang optimis dan Yui yang ceria, kita disajikan dengan dinamika hubungan yang menarik dan pertumbuhan pribadi yang signifikan. Melalui konflik internal dan eksternal yang mereka hadapi, Oregairu menggali tema-tema penting seperti persahabatan, cinta, dan pertumbuhan diri dengan kedalaman yang jarang ditemui dalam novel ringan lainnya.</p>\n<p>Pendekatan naratif yang tajam dan dialog yang cerdas memberikan nuansa keaslian pada cerita ini, sementara humor yang menyegarkan dan komentar satir dari Hachiman menambah daya tariknya. Meskipun beberapa orang mungkin merasa terganggu oleh pendekatannya yang pesimistis terhadap hubungan sosial, namun keseluruhan, Oregairu dihargai karena mengeksplorasi tema-tema tersebut dengan cara yang lebih kompleks dan realistis.</p>\n<p>Dengan demikian, Oregairu tidak hanya sebuah cerita, tetapi juga cermin dari realitas kehidupan remaja yang memikat, menghibur, dan mendalam. Ia mengajak pembaca untuk merenung tentang makna sejati dari persahabatan, cinta, dan pertumbuhan pribadi, serta pentingnya kejujuran dan pengertian dalam hubungan manusiawi.</p>\n<p><i>Art by @Ponkan8</i></p>"
+  }
+
+]
