@@ -456,7 +456,7 @@ function generateDetailHTML(article) {
 
         <div class="panel">
           <h4>Navigasi</h4>
-          <a href="article-list.html">← Kembali ke daftar</a>
+          <a href="index.html">← Kembali ke daftar</a>
           <a href="#" onclick="window.print(); return false;">🖨️ Cetak artikel</a>
           <a href="#"
              onclick="navigator.share?.({title: '${escapeHTML(article.title)}', url: window.location.href}); return false;">
@@ -663,3 +663,4 @@ if (typeof window !== 'undefined') {
     CONFIG
   };
 }
+
